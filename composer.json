@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"Hackingangle\\": "hackingangle/logger/src/"}
+    },
+    "require": {
+        "psr/log": "^1.0"
+    }
+}
